@@ -28,12 +28,8 @@
 ### Краткая информация о данных
 Только данные базового курса Skill Factory #01_python-08
 
-:arrow_up:[к оглавлению](https://github.com/Ravezoth/01_python-08-final-task/blob/master/README.md#Оглавление)
-
 ### Результаты:  
 Угадывание за восемь попыток при "не более 20"
-
-:arrow_up:[к оглавлению](https://github.com/Ravezoth/01_python-08-final-task/blob/master/README.md#Оглавление)
 
 ### Выводы:  
 Надо быстрее двигаться дальше
