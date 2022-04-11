@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание](https://github.com/Ravezoth/01_python-08-final-task/blob/master/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Ravezoth/01_python-08-final-task/blob/master/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Ravezoth/01_python-08-final-task/blob/master/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Ravezoth/01_python-08-final-task/blob/master/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Ravezoth/01_python-08-final-task/blob/master/README.md#Результат)    
+[6. Выводы](https://github.com/Ravezoth/01_python-08-final-task/blob/master/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
@@ -28,10 +28,14 @@
 ### Краткая информация о данных
 Только данные базового курса Skill Factory #01_python-08
 
+:arrow_up:[к оглавлению](https://github.com/Ravezoth/01_python-08-final-task/blob/master/README.md#Оглавление)
 
 ### Результаты:  
 Угадывание за восемь попыток при "не более 20"
 
+:arrow_up:[к оглавлению](https://github.com/Ravezoth/01_python-08-final-task/blob/master/README.md#Оглавление)
 
 ### Выводы:  
 Надо быстрее двигаться дальше
+
+:arrow_up:[к оглавлению](https://github.com/Ravezoth/01_python-08-final-task/blob/master/README.md#Оглавление)
